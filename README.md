@@ -28,3 +28,7 @@ This project provides a visual analysis of electric vehicle (EV) registrations u
    ```bash
    git clone https://github.com/your-username/ev-population-analysis.git
    cd ev-population-analysis
+   pip install pandas matplotlib seaborn
+   python Code.py.py
+
+
